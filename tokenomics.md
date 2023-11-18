@@ -14,9 +14,9 @@ The tokenomics of $MCAKE (Mooncake Token) is meticulously crafted to bolster uti
 
 * **Token Name**: $MCAKE
 * **Blockchain**: Ethereum ERC-20
-* **Total Supply**: 69 billion $MCAKE
+* **Total Supply**: 69 billion $MCAKE (69,000,000,000)
 * **Decimals**: 18
-* **Initial Price**: Starting at $0.0000072464 per token, with periodic increments. Refer to [https://mooncake](https://mooncakebets.com/)[.gg](https://mooncake.gg/) for the most recent pricing.
+* **Initial Price**: Starting at $0.0000000038138825 per token, with periodic increments. Refer to [https://mooncake](https://mooncakebets.com/)[.gg](https://mooncake.gg/) for the most recent pricing.
 
 ## **Distribution Breakdown**
 
