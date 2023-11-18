@@ -20,20 +20,9 @@ The tokenomics of $MCAKE (Mooncake Token) is meticulously crafted to bolster uti
 
 ## **Distribution Breakdown**
 
-### **Initial distribution**
+<figure><img src=".gitbook/assets/Screenshot from 2023-11-18 10-50-54.png" alt=""><figcaption></figcaption></figure>
 
-* **Private Sale**: 10% (6.9 billion $MCAKE)
-* **Community**: 40% (27.6 billion $MCAKE)
-* **Staking Pool**: 10% (6.9 billion $MCAKE)
-* **Exchange Listing**: 5% (3.45 billion $MCAKE)
-* **Fair Launch**: 30% (20.7 billion $MCAKE)
-* **Team and Advisors**: 5% (3.45 billion $MCAKE)
-
-
-
-<figure><img src=".gitbook/assets/Tokenomics mooncake.png" alt=""><figcaption><p><strong>Initial token distribution</strong></p></figcaption></figure>
-
-### **Utility of $MCAKE**
+## **Token Utility**
 
 * **Bets and payouts**: Gamers can employ $MCAKE as credits for engaging in games on Mooncake Bets.
 * **Exclusive Privileges**: Specific gaming avenues or chambers might necessitate exclusive $MCAKE admission, enhancing its desirability.
