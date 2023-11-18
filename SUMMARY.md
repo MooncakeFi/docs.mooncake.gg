@@ -12,3 +12,4 @@
 * [Bonus Terms & Conditions](bonus-terms-and-conditions.md)
 * [Provably Fair Casino](provably-fair-casino.md)
 * [How to Play](how-to-play.md)
+* [Incentives and Loyalty Points](incentives-and-loyalty-points.md)
